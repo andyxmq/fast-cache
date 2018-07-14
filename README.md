@@ -9,6 +9,8 @@
 ## 安装下载
 
 - 下载地址 https://github.com/andyxmq/fast-cache/releases
+- `npm i fast-cache-andy`
+- CDN http://unpkg.com/fast-cache-andy/release/bundle.js
 
 ##快速使用
 
