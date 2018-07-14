@@ -1,4 +1,4 @@
-# fast-cache
+# fast-cache-andy
 
 短小精悍的前端暂存工具，防止内存“泄漏”
 
@@ -7,6 +7,8 @@
     特色：(说出和别人功能不同的地方)
 
 ## 安装下载
+
+- 下载地址 https://github.com/andyxmq/fast-cache/releases
 
 ##快速使用
 
