@@ -13,4 +13,5 @@ class FastCache {
     }
 }
 
-window.FastCache = FastCache;
+export default FastCache;
+//window.FastCache = FastCache;

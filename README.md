@@ -10,9 +10,16 @@
 
 - 下载地址 https://github.com/andyxmq/fast-cache/releases
 - `npm i fast-cache-andy`
-- CDN http://unpkg.com/fast-cache-andy/release/bundle.js
+- CDN https://unpkg.com/fast-cache-andy/release/bundle.js
 
 ##快速使用
+```js
+var FC = window.FastCache;
+var cache = new FC();
+    cache.set('a', 100);
+    alert(cache.get('a'));
+```
+
 
 简单接入的文档
 
@@ -21,7 +28,8 @@
 
 ## 交流 & 提问
 
-https://github.com/andyxmq/fast-cache/issues
+- 提问： https://github.com/andyxmq/fast-cache/issues
+- QQ 群、微信群 （及时反馈）
 
 ## 关于作者
 
