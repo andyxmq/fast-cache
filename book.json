@@ -1,0 +1,63 @@
+{
+  "title": "fast-cache-andy",
+  "description": "缓存",
+  "language": "zh",
+  "plugins": [
+    "disqus",
+    "github",
+    "editlink",
+    "prism",
+    "-highlight",
+    "baidu",
+    "splitter",
+    "sitemap",
+    "tbfed-pagefooter",
+    "fontsettings",
+    "simple-page-toc",
+    "links"
+  ],
+  "styles": {
+    "website": "styles/website.css" 
+  },
+  "pluginsConfig": {
+       "tbfed-pagefooter": {
+            "copyright": "",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "serif",
+            "size": 12
+        },
+        "disqus": {
+          "shortName": "webpack-handbook"
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        "editlink": {
+          "base": "https://github.com/andyxmq",
+          "label": "编辑本页面"
+        },
+        "github": {
+          "url": "https://github.com/andyxmq/fast-cache"
+        },
+        "links": {
+            "gitbook": false,
+            "sharing": {
+                "google": false,
+                "facebook": false,
+                "twitter": false,
+                "all": false
+            }
+        },
+        "baidu": {
+            "token": "a9787f0ab45d5e237bab522431d0a7ec"
+        },
+        "sitemap": {
+            "hostname": "http://baidu.com/"
+        }
+    }
+}

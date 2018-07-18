@@ -3,9 +3,9 @@
 短小精悍的前端暂存工具，防止内存“泄漏”
 
 ## 简介
-
-    特色：(说出和别人功能不同的地方)
-
+    
+    特色：一次开发、多次使用，[更多...][1]
+[1]:http://www.sparksharing.com/fast-cache/
 ## 安装下载
 
 - 下载地址 https://github.com/andyxmq/fast-cache/releases
@@ -14,8 +14,8 @@
 
 ##快速使用
 ```js
-var FC = window.FastCache;
-var cache = new FC();
+import FastCache form 'fast-cache-andy'
+var cache = new FastCache();
     cache.set('a', 100);
     alert(cache.get('a'));
 ```
