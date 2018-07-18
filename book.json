@@ -5,6 +5,9 @@
   "styles": {
     "website": "website.css" 
   },
+  "plugins": [ 
+    "disqus"
+  ],
   "pluginsConfig": {
         "fontsettings": {
             "theme": "white",
