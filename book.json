@@ -1,30 +1,11 @@
 {
   "title": "fast-cache-andy",
   "description": "缓存",
-  "language": "zh",
-  "plugins": [
-    "disqus",
-    "github",
-    "editlink",
-    "prism",
-    "-highlight",
-    "baidu",
-    "splitter",
-    "sitemap",
-    "tbfed-pagefooter",
-    "fontsettings",
-    "simple-page-toc",
-    "links"
-  ],
+  "content": "缓存",
   "styles": {
-    "website": "styles/website.css" 
+    "website": "website.css" 
   },
   "pluginsConfig": {
-       "tbfed-pagefooter": {
-            "copyright": "",
-            "modify_label": "该文件修订时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
         "fontsettings": {
             "theme": "white",
             "family": "serif",
